@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Luckiest+Guy');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple');
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{width: 85%;}
+.center{text-align:center;}
+.impact {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+}
+.pew {
+    font-family: 'Times New Roman';
+}
+.m10 {margin:10px;}
+.center{text-align: center;}
+.p{padding: 40px;}
+.p i{padding: 40px;}
+.color{
+    color:rgb(6, 155, 122);
+}
+.jumbotron{
+    height:650px;
+    text-align: center;
+    box-shadow: 0 2px 2px #bbb;
+    background:center center url('https://images.unsplash.com/photo-1504469233511-1a19ead30d33?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a251900ecb0110fde8dd273f9a6817d5&auto=format&fit=crop&w=1350&q=80')
+}
+.jumbotron h1{
+    position:relative;
+    top:30%;
+    color:rgb(255, 251, 41);
+    text-shadow: 2px 2px black;
+    font-family: 'Homemade Apple', cursive;
+}
+
+.navbar{
+    margin-bottom:0px;
+}
+body{
+    padding-bottom: 150px;
+}
